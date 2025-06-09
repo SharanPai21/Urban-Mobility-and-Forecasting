@@ -83,8 +83,8 @@ This project analyzes urban taxi ride patterns in New York City by combining geo
 ## 🛠️ Technologies Used
 
 - **Python:** Pandas, GeoPandas, Scikit-learn, XGBoost
-- **Visualization:** Folium, Plotly, Power BI
-- **Geospatial:** PostGIS (optional), GeoJSON
+- **Visualization:** Folium, Power BI
+- **Geospatial:** GeoJSON
 - **Data Sources:** NYC Taxi Data, NOAA Weather, Public Holidays
 
 ---
