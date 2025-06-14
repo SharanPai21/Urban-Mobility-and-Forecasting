@@ -43,7 +43,7 @@ This enterprise-grade analytics platform leverages big data to predict taxi dema
 ┌─────────────────┐    ┌──────────────────┐    ┌─────────────────┐
 │   Data Sources  │    │  ETL Pipeline    │    │  ML Platform    │
 ├─────────────────┤    ├──────────────────┤    ├─────────────────┤
-│ • NYC Taxi Data │───▶│ • Data Cleaning  │───▶│ • XGBoost Model │
+│ • NYC Taxi Data │──▶│ • Data Cleaning   │──▶│ • XGBoost Model│
 │ • Weather API   │    │ • Feature Eng.   │    │ • Cross Valid.  │
 │ • Holiday Cal.  │    │ • Spatial Join   │    │ • Hyperparam.   │
 │ • GeoJSON Zones │    │ • Aggregation    │    │ • Evaluation    │
