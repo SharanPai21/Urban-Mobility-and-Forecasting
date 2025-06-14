@@ -236,11 +236,3 @@ This project is licensed under the MIT License. When using this work in academic
 
 ---
 
-<div align="center">
-
-**🌟 Star this repository if it helped optimize your urban mobility operations! 🌟**
-
-[![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red.svg)](https://github.com/SharanPai21/Urban-Mobility-and-Forecasting)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-
-</div>
